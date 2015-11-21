@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1448036154 source:c:\users\luisa\documents\microprocesador\proyectofnal\proyectofinal\fuse.c
+	<avr/io.h>
+
+1448058013 source:c:\users\luisa\documents\microprocesador\proyectofnal\proyectofinal\main.c
+	<avr/io.h>
+	<util/delay.h>
+
