@@ -1,0 +1,7 @@
+ProyectoFinal/bin/*
+ProyectoFinal/obj/*
+*.depend
+*.layout
+*.cbp
+*.dll
+*.o
